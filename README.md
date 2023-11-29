@@ -4,15 +4,15 @@ This is a simple Todo List application built with React. It allows users to add,
 
 ## Clone the repository:
 
-https://github.com/ajmircoder/AulaCubeTechnologiesProject.git
+- https://github.com/ajmircoder/AulaCubeTechnologiesProject.git
 
 ## Getting Started
 
--npm i
+- npm i
 
--npm run dev
+- npm run dev
 
-Make sure you have Node.js and npm installed on your machine.
+- Make sure you have Node.js and npm installed on your machine.
 
 ## Features
 
