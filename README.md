@@ -25,7 +25,8 @@ This is a simple Todo List application built with React. It allows users to add,
 - HTML
 - CSS
 - React
-- -Javascript
+- Javascript
+- Tailwind
 
 ![image](https://github.com/ajmircoder/AulaCubeTechnologiesProject/assets/127777945/7b7fe11d-47e3-4000-8c47-47e35466b28a)
 
