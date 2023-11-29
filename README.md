@@ -2,10 +2,11 @@
 
 This is a simple Todo List application built with React. It allows users to add, remove, and mark tasks as completed.
 
-## Getting Started
+## Clone the repository:
 
-# Clone the repository:
 https://github.com/ajmircoder/AulaCubeTechnologiesProject.git
+
+## Getting Started
 
 -npm i
 
