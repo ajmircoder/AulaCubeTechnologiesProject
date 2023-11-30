@@ -46,7 +46,7 @@ function TodoItem({ todoList, setTodoList }) {
                     <input className={`${todo.isComplete ? "line-through bg-cyan-300" : ""} 
                     w-full px-1 inline-block mb-2 border outline-none rounded-lg h-10 bg-[#ccbed7]`} value={todo.todoName} />
                     <input onChange={(e) => editTodo(e)} readOnly={!todo.isComplete && todo.id == id ? false : true} id={todo.id}
-                        className={`${todo.isComplete ? "line-through bg-cyan-300" : ""} ${todo.inComplete && todo.id == id ? " bg-slate-300" : ""} 
+                        className={`${todo.isComplete ? "line-through bg-cyan-300" : ""} ${!todo.inComplete && todo.id == id ? " bg-slate-300" : ""} 
                         w-full px-1 inline-block mb-2 border outline-none rounded-lg h-10 bg-[#ccbed7]`}
                         value={todo.todo} />
                     <div className='flex justify-end md:justify-around md:items-center'>
